@@ -16,7 +16,6 @@
 title: Kevin Sherard
 email: kcsherard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sr Software Engineer. Innovation in science and technology, philosophy and political science, self driving cars and effective use of public infrascture, big data in healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tbd

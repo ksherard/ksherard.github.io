@@ -1,18 +1,8 @@
 ---
 layout: default
-title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi I'm Kevin Sherard. I currently employed as a Sr. Software Engineer at HERE Technologies. Some of my subjects of interests are science and technology, philosophy and political science, self driving cars and effective use of public infrastructure, and using big data to improve health.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[back](./)
