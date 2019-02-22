@@ -2,12 +2,13 @@
 layout: default
 ---
 
-Layout Test
-<div style="display:flex">
+<div style="display:flex; justify-content:space-between;">
 
-<div>1</div>
-<div>2</div>
-<div>3</div>
+    <img src="./working.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
+
+    <img src="./marley.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
+
+    <img src="./nile.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
 
 </div>
 
