@@ -2,6 +2,32 @@
 layout: default
 ---
 
+
+
+
+
+[Resume](./resume.html)
+
+
+[About](./about.html)
+
+
+
+<div class="content-row top">RESUME</div>
+<div class="content-row middle">PROJECTS</div>
+<div class="content-row bottom">ABOUT</div>
+
+<div style="display:flex; justify-content:space-between;">
+
+    <img src="./working.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
+
+    <img src="./marley.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
+
+    <img src="./nile.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
+
+</div>
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

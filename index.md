@@ -2,18 +2,17 @@
 layout: default
 ---
 
-<div style="display:flex; justify-content:space-between;">
+<link rel="stylesheet" href="assets/css/home.css" />
 
-    <img src="./working.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
 
-    <img src="./marley.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
-
-    <img src="./nile.jpg" style="height: auto; width: auto; max-width: 300px; max-height: 300px;">
-
+<div class="column-container">
+    <a href="./about.html" class="column img1">
+        <span>ABOUT</span>
+    </a>
+    <a href="./resume.html" class="column img2">
+        <span>RESUME</span>
+    </a>
+    <a class="column img3">
+        <span>PROJECTS</span>
+    </a>
 </div>
-
-
-[Resume](./resume.html)
-
-[About](./about.html)
-
