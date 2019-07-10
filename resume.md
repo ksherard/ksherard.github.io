@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Resume
+## Resume (Simple Version)
 
 **WebDev Lead:**
 
