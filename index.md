@@ -12,7 +12,7 @@ layout: default
     <a href="./resume.html" class="column img2">
         <span>RESUME</span>
     </a>
-    <a class="column img3">
+    <a href="./projects/projects.html" class="column img3">
         <span>PROJECTS</span>
     </a>
 </div>
