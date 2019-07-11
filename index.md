@@ -4,7 +4,6 @@ layout: default
 
 <link rel="stylesheet" href="assets/css/home.css" />
 
-
 <div class="column-container">
     <a href="./about.html" class="column img1">
         <span>ABOUT</span>
