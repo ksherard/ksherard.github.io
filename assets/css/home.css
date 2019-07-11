@@ -50,15 +50,15 @@ body{
 }
 
 .img1:hover{
-    background-image: url(/working.jpg);
+    background-image: url(/assets/images/working.jpg);
 }
 
 .img2:hover{
-    background-image: url(/nile.jpg);
+    background-image: url(/assets/images/nile.jpg);
 }
 
 .img3:hover{
-    background-image: url(/marley.jpg);
+    background-image: url(/assets/images/marley.jpg);
 }
 
 @keyframes fadein {
