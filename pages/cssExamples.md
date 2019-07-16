@@ -40,4 +40,17 @@ layout: default
     </div>
 </div>
 
+
+
+<div class="section">
+    <div class="title">CSS Toggle/Switch</div>
+    <div class="example">
+        <input type="checkbox" id="switch" /><label for="switch">Label</label>
+    </div>
+</div>
+
+
+
+
+
 [back to projects](/projects.html)
