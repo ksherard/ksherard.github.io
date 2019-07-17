@@ -50,7 +50,17 @@ layout: default
 </div>
 
 
-
+<div class="section">
+    <div class="title">Detect color scheme preference</div>
+    <div class="example">
+        <span class="color-pref">What color is this text</span>
+        <div>
+            <span>RED = Not supported by browser</span>
+            <span>GREEN = Set to dark mode</span>
+            <span>BLUE = Set to light mode</span>
+        </div>
+    </div>
+</div>
 
 
 [back to projects](/projects.html)

@@ -103,3 +103,20 @@ input:checked + label:after {
 label:active:after {
 	width: calc(var(--base-size) * 13);;
 }
+
+/* Detect color preference */
+.color-pref {
+  color: #d70;
+}
+
+@media (prefers-color-scheme: light) {
+	.color-pref {
+		color: #00F;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.color-pref {
+		color: #0f0;
+	}
+}
