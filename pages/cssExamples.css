@@ -106,7 +106,7 @@ label:active:after {
 
 /* Detect color preference */
 .color-pref {
-  color: #d70;
+  color: #F00;
 }
 
 @media (prefers-color-scheme: light) {

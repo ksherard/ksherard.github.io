@@ -55,8 +55,8 @@ layout: default
     <div class="example">
         <span class="color-pref">What color is this text</span>
         <div>
-            <span>RED = Not supported by browser</span>
-            <span>GREEN = Set to dark mode</span>
+            <span>RED = Not supported by browser</span><br/>
+            <span>GREEN = Set to dark mode</span><br/>
             <span>BLUE = Set to light mode</span>
         </div>
     </div>
