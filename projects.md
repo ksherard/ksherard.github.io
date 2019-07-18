@@ -4,7 +4,7 @@ layout: default
 
 ## Projects
 
-<a href="./pages/cssExamples.html">
+<a href="./pages/webComponents.html">
     <span>**Web components**</span>
 </a>
 
