@@ -3,8 +3,8 @@ layout: default
 ---
 
 <link rel="stylesheet" href="/assets/css/home.css"/>
-<link rel="stylesheet" href="/pages/cssExamples.css">
-<script src="/pages/cssExamples.js"></script>
+<link rel="stylesheet" href="/pages/webComponents.css">
+<script src="/pages/webComponents.js"></script>
 
 
 <div class="section">
