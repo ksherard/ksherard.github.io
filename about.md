@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Hi I'm Kevin Sherard. I currently employed as a Sr. Software Engineer at HERE Technologies. Some of my subjects of interests are science and technology, philosophy and political science, self driving cars and effective use of public infrastructure, and using big data to improve health.
-
+Hi I'm Kevin Sherard. I currently employed as a Sr. Software Engineer at HERE Technologies. I enjoy keeping up with latest developments in web technologies and tech in general. This site is just a quick experiment with Jekyll and github pages free hosting, so don't take it too seriously. Have a nice day!
 
 [back](./)
